@@ -30,7 +30,7 @@ Clone this repository to your local machine:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/IPC-Chat-Application.git
+git clone https://github.com/akhilinfinity/IPC-Chat-Application.git
 cd IPC-Chat-Application
 Ensure Python 3.x is installed on your machine.
 
